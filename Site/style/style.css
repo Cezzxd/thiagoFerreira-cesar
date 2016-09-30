@@ -93,6 +93,49 @@ section h3 {
 section p {
 	text-align: center
 }
+
+section  ul li{
+	list-style: none;
+	color: #FFFFFF;
+	font: normal bold 30px/1.2em Bradley Hand ITC, Verdana, Helvetica;
+	
+}
+
+.entradas{
+	padding: 30px 0 30px 0;
+	background-image: url(salada.png);
+	background-size: 100% 100%;
+}
+.massas{
+	padding: 30px 0 30px 0;
+	background-image: url(massas.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.sanduiches{
+	padding: 30px 0 30px 0;
+	background-image: url(sanduiche.png);
+	background-position: center;
+	background-size: 100% 100%;
+}
+.pratos{
+	padding: 30px 0 30px 0;
+	background-image: url(pratos.png);
+	background-position: center;
+	background-size: 100% 100%;
+}
+.sobremesas{
+	padding: 30px 0 30px 0;
+	background-image: url(sobremesa.png);
+	background-position: center;
+	background-size: 100% 100%;
+}
+.bebidas{
+	padding: 30px 0 30px 0;
+	background-image: url(bebidas.png);
+	background-position: center;
+	background-size: 100% 100%;
+}
 /******Citações******/
 footer {
 	border-top: 1px solid #c0c0c0;	
